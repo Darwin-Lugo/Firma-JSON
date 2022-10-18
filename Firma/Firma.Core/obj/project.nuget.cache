@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgd+xoRuHHg+DCxR0oOujMIVQ25ksVpkdX1oypIRH0Pb+w9XSoWY3vwqpgO8+vHV2UxCrWNmqhlnl2C20+a2Pw==",
+  "success": true,
+  "projectFilePath": "F:\\Repositorio-Guardados\\Firmas-JSON\\Firma\\Firma.Core\\Firma.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darwi\\.nuget\\packages\\cloudnative.cloudevents\\2.3.0\\cloudnative.cloudevents.2.3.0.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.2.22472.3\\microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.2.22472.3\\microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\motor.extensions.contentencoding.abstractions\\0.10.2\\motor.extensions.contentencoding.abstractions.0.10.2.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\motor.extensions.conversion.abstractions\\0.10.2\\motor.extensions.conversion.abstractions.0.10.2.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\motor.extensions.hosting.abstractions\\0.10.2\\motor.extensions.hosting.abstractions.0.10.2.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\motor.extensions.hosting.cloudevents\\0.10.2\\motor.extensions.hosting.cloudevents.0.10.2.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Darwi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

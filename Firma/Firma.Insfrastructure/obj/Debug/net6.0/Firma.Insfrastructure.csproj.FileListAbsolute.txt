@@ -1,0 +1,17 @@
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Insfrastructure.deps.json
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Insfrastructure.runtimeconfig.json
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Insfrastructure.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Insfrastructure.pdb
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.csproj.AssemblyReference.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.AssemblyInfoInputs.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.AssemblyInfo.cs
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.csproj.CoreCompileInputs.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\refint\Firma.Insfrastructure.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.pdb
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.genruntimeconfig.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\ref\Firma.Insfrastructure.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Core.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\bin\Debug\net6.0\Firma.Core.pdb
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Insfrastructure\obj\Debug\net6.0\Firma.Insfrastructure.csproj.CopyComplete

@@ -1,0 +1,12 @@
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\bin\Debug\net6.0\Firma.Core.deps.json
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\bin\Debug\net6.0\Firma.Core.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\bin\Debug\net6.0\Firma.Core.pdb
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.csproj.AssemblyReference.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.AssemblyInfoInputs.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.AssemblyInfo.cs
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.csproj.CoreCompileInputs.cache
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\refint\Firma.Core.dll
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\Firma.Core.pdb
+F:\Repositorio-Guardados\Firmas-JSON\Firma\Firma.Core\obj\Debug\net6.0\ref\Firma.Core.dll
