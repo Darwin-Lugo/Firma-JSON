@@ -1,17 +1,16 @@
 ﻿#region References
-using Firma.Insfrastructure.Entity;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+using AutoMapper;
 using Firma.API.Responses;
-using System.Net;
-using System.Diagnostics;
 using Firma.Core.CustomEntities;
+using Firma.Core.DTOs;
+using Firma.Core.Entitys;
 using Firma.Core.Interfaces;
 using Firma.Core.QueryFilters;
-using Firma.Core.Entitys;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using AutoMapper;
-using Firma.Core.DTOs;
+using System.Diagnostics;
+using System.Net;
 #endregion
 
 namespace Firma.API.Controllers
@@ -71,7 +70,7 @@ namespace Firma.API.Controllers
         {
             Stopwatch time = Time();
             var user = await _usersService.GetById(id);
-            if(user != null)
+            if (user != null)
             {
                 time.Stop();
                 Response.Headers.Add("X-RequestTime", Convert.ToString(time.Elapsed));
@@ -108,7 +107,7 @@ namespace Firma.API.Controllers
             return Created("Exitoso", response);
         }
 
-       
+
         [ActionName(nameof(Delete))]
         [HttpDelete(template: "{id}", Name = nameof(Delete))]
         public async Task<IActionResult> Delete(int id)
@@ -119,9 +118,8 @@ namespace Firma.API.Controllers
             {
                 return NotFound();
             }
-            Response.Headers.Add("X-RequestTime", Convert.ToString(time.Elapsed));
             time.Stop();
-
+            Response.Headers.Add("X-RequestTime", Convert.ToString(time.Elapsed));
             return NoContent();
         }
 
